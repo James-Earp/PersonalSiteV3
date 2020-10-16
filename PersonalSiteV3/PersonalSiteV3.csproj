@@ -67,12 +67,128 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\bootstrap\css\bootstrap.css" />
+    <Content Include="assets\bootstrap\css\bootstrap.min.css" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\bootstrap\js\bootstrap.js" />
+    <Content Include="assets\bootstrap\js\bootstrap.min.js" />
+    <Content Include="assets\bootstrap\js\npm.js" />
+    <Content Include="assets\css\animate.css" />
+    <Content Include="assets\css\plugins.css" />
+    <Content Include="assets\font-awesome\css\font-awesome.css" />
+    <Content Include="assets\font-awesome\css\font-awesome.min.css" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\images\band-member-1.jpg" />
+    <Content Include="assets\images\band-member-2.jpg" />
+    <Content Include="assets\images\band-member-3.jpg" />
+    <Content Include="assets\images\contact-bg.jpg" />
+    <Content Include="assets\images\cover-1.jpeg" />
+    <Content Include="assets\images\cover-2.jpg" />
+    <Content Include="assets\images\cover-3.jpeg" />
+    <Content Include="assets\images\cover-4.jpg" />
+    <Content Include="assets\images\gallery-1.jpg" />
+    <Content Include="assets\images\gallery-2.jpg" />
+    <Content Include="assets\images\gallery-3.jpg" />
+    <Content Include="assets\images\gallery-4.jpg" />
+    <Content Include="assets\images\gallery-5.jpg" />
+    <Content Include="assets\images\gallery-6.jpg" />
+    <Content Include="assets\images\hero-bg.jpeg" />
+    <Content Include="assets\images\hero-bg.jpg" />
+    <Content Include="assets\images\loading.gif" />
+    <Content Include="assets\images\logo-light.png" />
+    <Content Include="assets\images\logo.png" />
+    <Content Include="assets\images\logo1.png" />
+    <Content Include="assets\images\logo2.png" />
+    <Content Include="assets\images\logo3.png" />
+    <Content Include="assets\images\logo4.png" />
+    <Content Include="assets\images\logo5.png" />
+    <Content Include="assets\images\logo6.png" />
+    <Content Include="assets\images\section-bg-2.jpg" />
+    <Content Include="assets\images\section-bg-3.jpg" />
+    <Content Include="assets\js\bigvideo.js" />
+    <Content Include="assets\js\init.js" />
+    <Content Include="assets\js\jquery.min.js" />
+    <Content Include="assets\js\plugins.js" />
+    <Content Include="demo-selector.html" />
+    <Content Include="index-side-navigation.html" />
+    <Content Include="index-slideshow-side-navigation.html" />
+    <Content Include="index-slideshow.html" />
+    <Content Include="index.html" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
+    <Content Include="_Archive\assets\bootstrap\css\bootstrap.css" />
+    <Content Include="_Archive\assets\bootstrap\css\bootstrap.min.css" />
+    <Content Include="_Archive\assets\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="_Archive\assets\bootstrap\js\bootstrap.js" />
+    <Content Include="_Archive\assets\bootstrap\js\bootstrap.min.js" />
+    <Content Include="_Archive\assets\bootstrap\js\npm.js" />
+    <Content Include="_Archive\assets\css\animate.css" />
+    <Content Include="_Archive\assets\css\custom.css" />
+    <Content Include="_Archive\assets\css\plugins.css" />
+    <Content Include="_Archive\assets\font-awesome\css\font-awesome.css" />
+    <Content Include="_Archive\assets\font-awesome\css\font-awesome.min.css" />
+    <Content Include="_Archive\assets\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="_Archive\assets\images\1.jpg" />
+    <Content Include="_Archive\assets\images\2.png" />
+    <Content Include="_Archive\assets\images\3.jpg" />
+    <Content Include="_Archive\assets\images\4.jpg" />
+    <Content Include="_Archive\assets\images\6.jpg" />
+    <Content Include="_Archive\assets\images\7.jpg" />
+    <Content Include="_Archive\assets\images\8.jpg" />
+    <Content Include="_Archive\assets\images\band-member-1.jpg" />
+    <Content Include="_Archive\assets\images\band-member-2.jpg" />
+    <Content Include="_Archive\assets\images\band-member-3.jpg" />
+    <Content Include="_Archive\assets\images\contact-bg.jpg" />
+    <Content Include="_Archive\assets\images\cover-1.jpeg" />
+    <Content Include="_Archive\assets\images\cover-2.jpg" />
+    <Content Include="_Archive\assets\images\cover-3.jpeg" />
+    <Content Include="_Archive\assets\images\cover-4.jpg" />
+    <Content Include="_Archive\assets\images\gallery-1.jpg" />
+    <Content Include="_Archive\assets\images\gallery-2.jpg" />
+    <Content Include="_Archive\assets\images\gallery-3.jpg" />
+    <Content Include="_Archive\assets\images\gallery-4.jpg" />
+    <Content Include="_Archive\assets\images\gallery-5.jpg" />
+    <Content Include="_Archive\assets\images\gallery-6.jpg" />
+    <Content Include="_Archive\assets\images\hero-bg.jpeg" />
+    <Content Include="_Archive\assets\images\hero-bg.jpg" />
+    <Content Include="_Archive\assets\images\loading.gif" />
+    <Content Include="_Archive\assets\images\logo-light.png" />
+    <Content Include="_Archive\assets\images\logo.png" />
+    <Content Include="_Archive\assets\images\logo1.png" />
+    <Content Include="_Archive\assets\images\logo2.png" />
+    <Content Include="_Archive\assets\images\logo3.png" />
+    <Content Include="_Archive\assets\images\logo4.png" />
+    <Content Include="_Archive\assets\images\logo5.png" />
+    <Content Include="_Archive\assets\images\logo6.png" />
+    <Content Include="_Archive\assets\images\renhome.jpg.jpg" />
+    <Content Include="_Archive\assets\images\section-bg-2.jpg" />
+    <Content Include="_Archive\assets\images\section-bg-3.jpg" />
+    <Content Include="_Archive\assets\images\vvvvvv.jpg" />
+    <Content Include="_Archive\assets\js\bigvideo.js" />
+    <Content Include="_Archive\assets\js\init.js" />
+    <Content Include="_Archive\assets\js\jquery.min.js" />
+    <Content Include="_Archive\assets\js\plugins.js" />
+    <Content Include="_Archive\demo-selector.html" />
+    <Content Include="_Archive\index-side-navigation.html" />
+    <Content Include="_Archive\index-slideshow-side-navigation.html" />
+    <Content Include="_Archive\index-slideshow.html" />
+    <Content Include="_Archive\index.html" />
+    <Content Include="_Archive\style.css" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\bootstrap\css\bootstrap.css.map" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="assets\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="assets\font-awesome\fonts\FontAwesome.otf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -80,6 +196,16 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="_Archive\assets\bootstrap\css\bootstrap.css.map" />
+    <Content Include="_Archive\assets\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="_Archive\assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="_Archive\assets\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="_Archive\assets\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="_Archive\assets\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="_Archive\assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="_Archive\assets\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="_Archive\assets\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="_Archive\assets\font-awesome\fonts\FontAwesome.otf" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

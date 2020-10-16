@@ -1,0 +1,27 @@
+﻿a.logo {
+    padding-top: 15px;
+    display: inline-block;
+    font-size: 1.25em;
+    color: #fff;
+    font-family: 'Rock Salt';
+}
+
+#home {
+    background-image: url('../images/renhome.jpg.jpg');
+}
+
+#band-member-3 {
+    background-image: url('../images/8.jpg');
+}
+
+#band-member-1 {
+    background-image: url('../images/7.jpg');
+}
+
+#band-member-2 {
+    background-image: url('../images/6.jpg');
+}
+
+#contact-us {
+    background-image: url('../images/vvvvvv.jpg');
+}
